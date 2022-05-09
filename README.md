@@ -32,10 +32,9 @@ Final k-means clustering pipeline was able to cluster tweets with different clas
 
 
 
-## Tweets Classification
-Twitter is a social networking and micro blogging service on which users post and interact with each other through messages known as “tweets”. This model focuses on classifying tweets into 12 random categories..It has 3,218 tweets from different users. Code to scrap the data is available in this repository.
 
-The data set is called "data_elonmusk2.csv".
+## Sentiment Analysis
+This model is the practice of using algorithms to classify various samples of related text into overall positive and negative categories. With NLTK, I employ these algorithm through powerful built-in machine learning operations to obtain insights from linguistic data...
 
 ### KMeans Clustering.
 Distance computation in k-Means weighs each dimension equally and hence care must be taken to ensure that unit of dimension shouldn’t distort relative near-ness of observations. Common method is to unit-standardize each dimension individually.
