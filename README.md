@@ -8,6 +8,9 @@ NLP drives computer programs that translate text from one language to another, r
 
 (From IBM Cloud Education: https://www.ibm.com/cloud/learn/natural-language-processing).
 
+
+
+
 ## Tweets Classification
 Twitter is a social networking and micro blogging service on which users post and interact with each other through messages known as “tweets”. This model focuses on classifying tweets into 12 random categories..It has 3,218 tweets from different users. Code to scrap the data is available in this repository.
 
@@ -23,3 +26,18 @@ Distance computation in k-Means weighs each dimension equally and hence care mus
 Final k-means clustering pipeline was able to cluster tweets with different classes.
 
 ![image](https://user-images.githubusercontent.com/86708470/167464243-34d11c96-c41e-44cf-b29d-8948a75da0c6.png)
+
+
+
+
+
+
+## Tweets Classification
+Twitter is a social networking and micro blogging service on which users post and interact with each other through messages known as “tweets”. This model focuses on classifying tweets into 12 random categories..It has 3,218 tweets from different users. Code to scrap the data is available in this repository.
+
+The data set is called "data_elonmusk2.csv".
+
+### KMeans Clustering.
+Distance computation in k-Means weighs each dimension equally and hence care must be taken to ensure that unit of dimension shouldn’t distort relative near-ness of observations. Common method is to unit-standardize each dimension individually.
+
+![image](https://user-images.githubusercontent.com/86708470/167463458-20f8c7ad-f307-49ff-8c7f-8e1476f53fec.png)
