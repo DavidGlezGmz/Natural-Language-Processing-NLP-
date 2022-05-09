@@ -36,7 +36,7 @@ Final k-means clustering pipeline was able to cluster tweets with different clas
 ## Sentiment Analysis
 This model is the practice of using algorithms to classify various samples of related text into overall positive and negative categories. With NLTK, I employ these algorithm through powerful built-in machine learning operations to obtain insights from linguistic data...
 
-### KMeans Clustering.
-Distance computation in k-Means weighs each dimension equally and hence care must be taken to ensure that unit of dimension shouldn’t distort relative near-ness of observations. Common method is to unit-standardize each dimension individually.
+### Results.
+So to clarify the performance of the model I have used two simple sentences “I love it” and “I think this is a glorious peace of art” which clearly refer to positive sentiment. The output is as follows:
 
-![image](https://user-images.githubusercontent.com/86708470/167463458-20f8c7ad-f307-49ff-8c7f-8e1476f53fec.png)
+![image](https://user-images.githubusercontent.com/86708470/167479991-4cc5db4e-4818-4868-8f67-1b00ca8fc092.png)
