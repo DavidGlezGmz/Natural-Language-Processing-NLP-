@@ -9,7 +9,7 @@ NLP drives computer programs that translate text from one language to another, r
 (From IBM Cloud Education: https://www.ibm.com/cloud/learn/natural-language-processing).
 
 ## Tweets Classification
-Twitter is a social networking and micro blogging service on which users post and interact with each other through messages known as “tweets”. This model focuses on classifying tweets into 12 random categories..It has 197802 tweets from different users from Kenya. Code to scrap the data is available in this repository.
+Twitter is a social networking and micro blogging service on which users post and interact with each other through messages known as “tweets”. This model focuses on classifying tweets into 12 random categories..It has 3,218 tweets from different users. Code to scrap the data is available in this repository.
 
 The data set is called "data_elonmusk2.csv".
 
