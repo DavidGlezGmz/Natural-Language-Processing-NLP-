@@ -60,3 +60,19 @@ Chatbots are virtual advisors, assistants, or agents who communicate with busine
 ![image](https://user-images.githubusercontent.com/86708470/170315385-1ce3436b-b464-4300-ac78-1e7fb2ff1948.png)
 
 
+
+
+
+
+
+
+
+## Word Similarity (Autocorrect)
+
+One of the easiest ways of comparing text in python is using the fuzzy-wuzzy library. Here, we get a score out of 100, based on the similarity of the strings. Basically, we are given the similarity index. The library uses Levenshtein distance to calculate the difference between two strings.
+
+### Results.
+![image](https://user-images.githubusercontent.com/86708470/170315385-1ce3436b-b464-4300-ac78-1e7fb2ff1948.png)
+
+
+
