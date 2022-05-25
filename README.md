@@ -40,3 +40,23 @@ This model is the practice of using algorithms to classify various samples of re
 So to clarify the performance of the model I have used two simple sentences “I love it” and “I think this is a glorious peace of art” which clearly refer to positive sentiment. The output is as follows:
 
 ![image](https://user-images.githubusercontent.com/86708470/167479991-4cc5db4e-4818-4868-8f67-1b00ca8fc092.png)
+
+
+
+
+
+
+
+
+
+
+
+## Police Assistance (line 311 - Non-emergeny cases)
+An alternative to 911: Atlanta 311 line now takes non-emergency mental health, drug calls. A program in Atlanta that offers an alternative to calling the police for non-emergency situations now allows residents to reach the service by simply dialing 311.
+
+### Results.
+Chatbots are virtual advisors, assistants, or agents who communicate with businesses and brands via messaging apps.
+
+![image](https://user-images.githubusercontent.com/86708470/170315385-1ce3436b-b464-4300-ac78-1e7fb2ff1948.png)
+
+
